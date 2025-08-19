@@ -1,20 +1,5 @@
 # Case Study: Verifying a Suspicious Remote Job Offer (Airspan “Data Entry Clerk”)
 
-/JobOfferScam_CybersecurityCaseStudy/
-├── README.md 
-├── artifacts/
-│   ├── WARNING.md 
-│   ├── original_offer_letter.pdf 
-│   └── virustotal_screenshots/
-│       ├── Screenshot_541.png
-│       ├── Screenshot_542.png
-│       ├── Screenshot_543.png
-│       └── Screenshot_544.png
-└── documentation/
-    ├── comprehensive_report.md
-    ├── malware_analysis.md
-    └── research_findings.md
-
 Author: Sadisu Mohammed
 Date: 08 19, 2025
 Role: SOC Analyst (aspiring Red Teamer)
